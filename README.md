@@ -16,17 +16,6 @@ A **real-time computer vision project** built using **Python, OpenCV, NumPy, and
 The system uses a **webcam feed** to monitor activity and automatically triggers an **alarm when motion or blue objects are detected**.
 
 ---
-## 🎥 Demo Video
-
-Click the thumbnail below to watch the demo.
-
-<p align="center">
-<a href="Demo.mp4">
-<img src="https://github.com/user-attachments/assets/34416924-52e2-4a0b-8f7b-e1cbf1c39dbb" width="800"/>
-</a>
-</p>
-
----
 
 # 📑 Table of Contents
 
@@ -228,7 +217,7 @@ Possible upgrades for this project:
 
 # 👨‍💻 Author
 
-**Gagandeep Singh**
+**Kanishka Mishra**
 
 Computer Science Student  
 Interested in **Artificial Intelligence, Computer Vision, and Automation**
